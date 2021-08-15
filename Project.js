@@ -24,8 +24,8 @@ ground.y=ground.width/2
 }
 
 runner.x=World.mouseX
-runner.y=World.mouseY
-if(runner.x>300){
+
+  if(runner.x>300){
   runner.x=250
   }
 if(runner.x<100){
